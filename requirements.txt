@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+ollama
+duckduckgo-search
+pymongo
+sounddevice
+numpy
+scipy
+whisper
+gtts
+tempfile
+requests
